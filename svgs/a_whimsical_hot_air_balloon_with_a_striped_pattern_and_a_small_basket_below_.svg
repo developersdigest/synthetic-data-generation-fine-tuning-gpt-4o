@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240">
+  <defs>
+    <pattern id="stripes" patternUnits="userSpaceOnUse" width="20" height="20">
+      <rect width="10" height="20" fill="#FF6B6B"/>
+      <rect x="10" width="10" height="20" fill="#4ECDC4"/>
+    </pattern>
+  </defs>
+  <ellipse cx="100" cy="100" rx="80" ry="90" fill="url(#stripes)"/>
+  <path d="M60 180 Q100 140 140 180" stroke="#8B4513" fill="none" stroke-width="4"/>
+  <rect x="90" y="180" width="20" height="25" fill="#8B4513"/>
+  <line x1="90" y1="190" x2="110" y2="190" stroke="#FFF" stroke-width="2"/>
+  <line x1="90" y1="195" x2="110" y2="195" stroke="#FFF" stroke-width="2"/>
+</svg>

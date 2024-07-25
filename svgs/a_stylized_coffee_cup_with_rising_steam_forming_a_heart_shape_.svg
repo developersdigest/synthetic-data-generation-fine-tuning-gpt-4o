@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200">
+  <path d="M20 70 Q50 70 80 70 L75 30 Q50 30 25 30 Z" fill="#8B4513"/>
+  <path d="M80 70 Q85 70 85 65 L85 35 Q85 30 80 30 L75 30 L80 70" fill="#A0522D"/>
+  <path d="M30 80 Q50 80 70 80 L70 75 Q50 75 30 75 Z" fill="#D2691E"/>
+  <path d="M50 30 Q30 0 50 0 T50 30" fill="none" stroke="#D3D3D3" stroke-width="2">
+    <animate attributeName="d" 
+             values="M50 30 Q30 0 50 0 T50 30;
+                     M50 30 Q70 0 50 0 T50 30;
+                     M50 30 Q30 0 50 0 T50 30"
+             dur="4s" repeatCount="indefinite"/>
+  </path>
+</svg>

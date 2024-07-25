@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#000" stroke-width="2"/>
+  <circle cx="100" cy="100" r="5" fill="#000"/>
+  <polygon points="100,10 95,95 100,100 105,95" fill="#000"/>
+  <polygon points="100,190 95,105 100,100 105,105" fill="#000"/>
+  <polygon points="10,100 95,95 100,100 95,105" fill="#000"/>
+  <polygon points="190,100 105,95 100,100 105,105" fill="#000"/>
+  <path d="M100,20 L95,90 L100,95 L105,90 Z" fill="#444"/>
+  <path d="M100,180 L95,110 L100,105 L105,110 Z" fill="#444"/>
+  <path d="M20,100 L90,95 L95,100 L90,105 Z" fill="#444"/>
+  <path d="M180,100 L110,95 L105,100 L110,105 Z" fill="#444"/>
+  <text x="100" y="30" text-anchor="middle" font-size="12">N</text>
+  <text x="100" y="175" text-anchor="middle" font-size="12">S</text>
+  <text x="30" y="105" text-anchor="middle" font-size="12">W</text>
+  <text x="170" y="105" text-anchor="middle" font-size="12">E</text>
+  <path d="M100,100 L60,60 M100,100 L140,60 M100,100 L60,140 M100,100 L140,140" stroke="#000" stroke-width="1"/>
+</svg>

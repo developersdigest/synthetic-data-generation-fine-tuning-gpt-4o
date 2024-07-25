@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <path id="wind" d="M0,0 Q5,-5 10,0 T20,0" fill="none" stroke="#87CEEB" stroke-width="2"/>
+  </defs>
+  
+  <ellipse cx="100" cy="80" rx="50" ry="60" fill="#FF6347"/>
+  <path d="M60,80 Q100,30 140,80" fill="none" stroke="#FF4500" stroke-width="3"/>
+  
+  <rect x="90" y="140" width="20" height="15" fill="#8B4513"/>
+  <path d="M85,140 Q100,130 115,140" fill="none" stroke="#8B4513" stroke-width="2"/>
+  
+  <use href="#wind" x="20" y="50" />
+  <use href="#wind" x="150" y="70" />
+  <use href="#wind" x="50" y="150" />
+</svg>
